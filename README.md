@@ -74,6 +74,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 12. [Additional Links](#12-additional-links-hamster)
 13. [Miscellaneous Resources](#13-miscellaneous-resources)
     - [Design Resources](#131-design-resources)
+    - [Podcasts](#132-podcasts)
 14. [Contributors](CONTRIBUTORS.md)
 
 ---
@@ -535,10 +536,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
-    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language author, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 
 - Online Courses
-    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language author, Martin Odersky.
 
 ## 1.21 Programming Notes for Professionals
 
@@ -988,6 +989,30 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+    
+## 13.2 Podcasts
+
+- **Technology**
+    - Code Newbie
+    - The Bike Shed
+    - Soft Skills Engineering
+    - Programming Throwdown
+    - Hanselminutes
+- **Startup and Entrepreneurship**
+    - StartUp
+    - How I Built This
+    - The Pitch
+    - The Growth Show
+    - Scrum master toolbox
+- **Life**
+    - Unf*ck your brain
+    - By the Book
+    - Strength and Scotch
+    - Happier with Gretchen Rubin
+    - The Minimalists
+- **Other**
+    - Tracks to Relax
+    - Unladylike
 
 ## 14. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
