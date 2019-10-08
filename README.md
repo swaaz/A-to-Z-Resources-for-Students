@@ -1,8 +1,16 @@
 
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
+---
+### Show some :heart: and :star: the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+
+![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
+
+
+----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -62,11 +70,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Bootcamps](#11-coding-bootcamps)
+11. [Top 50 YouTube Channels to Follow](#50-top-youtube-channels)
+     - [Top 10 in Technology](#111-top-10-in-technology)
+     - [Top 10 in Startup](#112-top-10-in-startup)
+     - [Top 10 in Design](#113-top-10-in-design)
+     - [To 10 in Business](#114-top-10-in-business)
+     - [Top 10 in Finance](#115-top-10-in-finance)
 12. [Additional Links](#12-additional-links-hamster)
-13. [Miscellaneous Resources](#13-miscellaneous-resources)
-    - [Design Resources](#131-design-resources)
-14. [Contributors](CONTRIBUTORS.md)
+13. [Bootcamps](#13-coding-bootcamps)
+14. [Miscellaneous Resources](#14-miscellaneous-resources)
+     - [Design Resources](#141-design-resources)
+     - [Podcasts](#142-podcasts)
+15. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -214,7 +229,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
-    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
@@ -488,6 +503,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+- [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
@@ -520,17 +538,19 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.19 Microsoft Technologies
 
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
+
 
 ## 1.20 Scala
 
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
-    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language author, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 
 - Online Courses
-    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language author, Martin Odersky.
 
 ## 1.21 Programming Notes for Professionals
 
@@ -581,14 +601,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
-|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|21 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
-|22 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
-|23 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
-|24 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
-|25 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
-|26 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
-|27 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
+|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
 
 
 
@@ -599,7 +620,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |ID| Name  | Location |
 |--|------ |----------|
 |1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | Online & On-Site |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
 |3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
 |4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
 |5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
@@ -638,6 +659,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -699,6 +721,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
    - [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
    - [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
    - [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
+   - [Free Microsoft Office 365 for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
@@ -729,6 +752,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
 
 ---
 
@@ -835,51 +859,52 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  May 1 | May 9 | Python |
+|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
 |2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Feb 18 | Feb 22 | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 18 | Nov 20  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 24 | June 29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov 9 | Nov 9 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | PASSED | - | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21-24, 2019 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | PASSED | Pre-Register for 2019 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Feb 15-18, 2019 | - | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 2-4, 2019 | - | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | Mar 26 | Mar 28 | - |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
+|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | PASSED | - | - |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
 |14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
 |15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug 3 | Aug 5 | Business |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | Jan 6 | Jan 11 | - |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
+|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
 |20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
 |21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
 |22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
 |23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 29 | Nov 30 | - |
+|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 24 | Nov 25 | - |
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
-|29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
+|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
+|29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
+|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
+|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
 
 
-## Data Science Conferences in 2018 and 2019
+## Data Science Conferences in 2019 and 2020
 
 | Conference |  Location | Date |
 |:--- |:--- |:--- |
-| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | 16-20 Jun 2019 | 
-| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 29 Apr - 2 May 2019 (Varies) |
+| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 | 
+| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 20 Apr - 23 Apr 2020 (Varies) |
 | [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
-| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
-| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
-| [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
-| [KDD](https://www.kdd.org/kdd2018/) |  London | 19-23 Aug 2019 |
-| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
+| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 28 Oct- 8 Noc 2019 |
+| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 4-7 May 2020 |
+| [MLConf](http://mlconf.com) |  San Francisco, USA | 8 Nov 2019 |
+| [KDD](https://www.kdd.org/kdd2018/) |  London | 22-27 Aug 2020 |
+| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2020 |
 | [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
-
 ---
 
 # 9. Top People to Follow
@@ -944,7 +969,89 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 
-# 11. Additional Links
+# 11. Top 50 YouTube Channels to Follow
+
+## 11.1 Top 10 in Technology
+|Sr. No. | Channel | No. of Subscribers |
+| --- | ------------- | ----- |
+|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
+|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
+|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
+|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
+|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
+|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
+|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
+|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
+|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
+|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+
+---
+
+## 11.2 Top 10 in Startup
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ------ |
+|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
+|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
+|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
+|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
+|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
+|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
+|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
+|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
+|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+
+---
+
+## 11.3 Top 10 in Design
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
+|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
+|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
+|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
+|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
+|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
+|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
+|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
+|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
+|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+
+---
+
+## 11.4 Top 10 in Business
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
+|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
+|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
+|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
+|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
+|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
+|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
+|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
+|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+
+---
+
+## 11.5 Top 10 in Finance
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
+|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
+|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
+|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
+|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
+|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
+|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
+|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
+|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
+|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+
+---
+
+# 12. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
@@ -959,7 +1066,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 
-# 12. Coding Bootcamps
+# 13. Coding Bootcamps
 
 |Id | Name | Track | Description | Country | 
 |--|------ |---| --- | ---- | 
@@ -969,12 +1076,47 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
 
 
-# 13. Miscellaneous Resources
+# 14. Miscellaneous Resources
 
-## 13.1 Design Resources
+## 14.1 Design Resources
 
 - **Youtube Channels & Playlists**
     - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+    
+## 14.2 Podcasts
+
+- **Technology**
+    - Code Newbie
+    - The Bike Shed
+    - Soft Skills Engineering
+    - Programming Throwdown
+    - Hanselminutes
+- **Startup and Entrepreneurship**
+    - StartUp
+    - How I Built This
+    - The Pitch
+    - The Growth Show
+    - Scrum master toolbox
+- **Life**
+    - Unf*ck your brain
+    - By the Book
+    - Strength and Scotch
+    - Happier with Gretchen Rubin
+    - The Minimalists
+- **Other**
+    - Tracks to Relax
+    - Unladylike
+
+## 15. Created and Maintained By
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+----
+
+Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
+
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
