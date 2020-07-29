@@ -1,16 +1,19 @@
+# A to Z Resources for Students 
 
-# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> </a>
+
+
+
+## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
+
+This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
+
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
+
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+
 ---
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/HQdeepak)
-
-![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
-
-
-----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -353,6 +356,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
+        - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
@@ -866,6 +870,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [PyData Delhi](https://pydata.org/delhi2018/)|Delhi|
 |25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
 |26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
+|27| [ACM Student Chapter](https://acm.org/)|All Colleges Worldwide|
 ---
 
 # 8. Conferences :bookmark_tabs:
@@ -1132,6 +1137,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
 
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/HQdeepak)     -  [Instagram](http://instagram.com/dipakkr.co)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
+
+Support my work 
+
+<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
+
