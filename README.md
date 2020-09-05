@@ -1,6 +1,6 @@
 # A to Z Resources for Students 
 
-<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> </a>
+<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> GitAd</a>
 
 
 
@@ -1135,9 +1135,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ----
 
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
-
-
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/HQdeepak)     -  [Instagram](http://instagram.com/dipakkr.co)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
 
