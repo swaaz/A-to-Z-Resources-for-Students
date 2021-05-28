@@ -1,18 +1,16 @@
-# A to Z Resources for Students 
+<h1 align="center"> A to Z Resources for Students </h1>
 
 
-This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
-
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
 
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
 
 ---
 
-### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
+Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships, workshops and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/a2z.png)
 
@@ -79,7 +77,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Top sites for APTITUTE PREPARATION FOR PLACEMENTS]
+15. [Top sites for Aptitude Preparion for Placements](#15-top-sites-for-aptitude-preparion-for-placements)
 16. [Contributors](CONTRIBUTORS.md)
 ---
 
@@ -117,6 +115,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -197,8 +197,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Pathway to Follow ](https://roadmap.sh/android)
+-  [Learn Android Programming | Tutlane](https://www.tutlane.com/tutorial/android)
 
 
 
@@ -227,14 +228,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) :baby:
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
-		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
+    - [Node.js API Design](https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
+    - [Learn Node.js | Tutlane](https://www.tutlane.com/tutorial/nodejs)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
+    - [PHP Interactive Tutorial](https://www.learn-php.org)
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
@@ -273,7 +276,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
-- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
+- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
@@ -311,9 +314,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
-	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
-	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
-	- [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+	- [Bootstrap4 Tutorial for beginners](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+	- [Bootstrap4 blog top](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+	- [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+	- [Learn Bootstrap4 | Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -485,6 +489,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [Software Design Using C++](https://cis.stvincent.edu/html/tutorials/swd/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -497,8 +502,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git - Progate](https://progate.com/languages/git) - Recommended
+ - [Git - Progate](https://progate.com/languages/git) 
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+ - [Git training](https://intellipaat.com/git-github-training/)
 
 
 ## 1.12 R Language
@@ -515,6 +521,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+ - [Learn You a Haskell](http://learnyouahaskell.com/)
 
 ## 1.14 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
@@ -531,6 +538,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
+- [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+- [Learn C# | Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## 1.17 DevDocs
 
@@ -541,6 +550,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Official Documentation on website](https://docs.docker.com/)
 - [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+- [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
 
 ## 1.19 Microsoft Technologies
 
@@ -553,7 +563,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
-    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language author, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+    - [Programming in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language author, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language author, Martin Odersky.
@@ -641,8 +651,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 
-
-
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
 |---| ------ |---| --- |
@@ -650,10 +658,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | Global | ALL |
-|5| [TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
+|5| [TechGIG - Search Online Competitions](https://www.techgig.com/challenge)| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 |8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+|9| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | Data Science |
+
 ## 2.4 Events 🎫
 
 > **Check out these events for your region**
@@ -720,6 +730,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 
 
 ## Student Benefits and Packs :v:
@@ -744,9 +755,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
-1. [Teach for India Fellowship]()
+1. [Teach for India Fellowship](https://apply.teachforindia.org/)
 2. [Young India Fellowship]()
-3. [Urban Leaders Fellowship]()
+3. [Urban Leaders Fellowship](http://www.urbanleadersfellowship.org/)
 4. [Facebook fellowship Program - **Only For PHD Scholars**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
 6. [Prime Minister’s Rural Fellowship]()
@@ -970,6 +981,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
 |37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+|38 |[Jacob Appelbaum](https://twitter.com/ioerror) | Computer Security Researcher |
 
 ---
 
@@ -990,6 +1002,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
+3.  **Computer science in general**
+      -  [All about computer science](https://www.computerscience.org/)
 
 # 11. Top 50 YouTube Channels to Follow
 
@@ -1132,27 +1146,24 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Other**
     - Tracks to Relax
     - Unladylike
-    
-## 15. Top sites for APTITUTE PREPARATION FOR PLACEMENTS
+  
+## 15. Top sites for Aptitude Preparion for Placements
 
-  -**[IndiaBix.com](https://indiabix.com)**
+  - [IndiaBix.com](https://indiabix.com)
 
-   -**[Testpot.com](https://testpot.com)**	
+  - [Testpot.com](https://testpot.com)	
 
-   -**[Freedu.in](https://freedu.in)**
+  - [Freedu.in](https://freedu.in)
 
-   -**[Sawaal.com](https://sawaal.com)**
+  - [Sawaal.com](https://sawaal.com)
 
 
-## 16. Created and Maintained By
+## 16. Maintainers
+[Ayush Gupta](https://github.com/siAyush)
+
+[Deepak Kumar](https://github.com/dipakkr)
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+<a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students"></a>
 ----
-
-Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
-
-Support my work 
-
-<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
-

@@ -385,5 +385,9 @@ Instructions :
 | 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
 | 353 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
 | 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
+| 355 | **shyoutarou** | Brazil | Student | [Github](https://github.com/shyoutarou) |
+| 356 | **Aditya Mehta** | India | Mechanical Engineering Student | [Github](https://github.com/adimehta03) - [LinkedIn](https://www.linkedin.com/in/aditya-mehta-414b67195/) |
+
+
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
